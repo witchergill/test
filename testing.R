@@ -11,5 +11,5 @@ print(i*i*i)
 Sys.sleep(.1)
 }
 
-head(read_csv('old_data.csv'))
+head(read.csv('old_data.csv'))
 Sys.sleep(5)
