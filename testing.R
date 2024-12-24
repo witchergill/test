@@ -21,4 +21,3 @@ Sys.sleep(2)
 
 read.csv('lastupdate.csv')
 Sys.sleep(2)
->>>>>>> testing_loop
